@@ -1,0 +1,55 @@
+.root{
+    -fx-background-color: grey;
+}
+.game-title{
+	-fx-font-size: 100pt;
+	-fx-font-family: "HelveticaNeue"
+}
+.button1{
+    -fx-background-color:
+        #6bcc57,
+        linear-gradient(#c3edbb, #65a53a);
+	-fx-font-size: 20pt;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+	-fx-padding: 15 30 15 30;
+	-fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 9,8,5,4,3;
+	-fx-font-family: "HelveticaNeue";
+}
+.button1:hover {
+    -fx-background-color:
+    #6bcc57,
+    linear-gradient(#c6ff99,#548e25);
+}
+.button2{
+    -fx-background-color:
+        #6bcc57,
+        linear-gradient(#c3edbb, #65a53a);
+	-fx-font-size: 20pt;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+	-fx-padding: 15 30 15 30;
+	-fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 9,8,5,4,3;
+	-fx-font-family: "HelveticaNeue";
+}
+.button2:hover {
+    -fx-background-color:
+    #6bcc57,
+    linear-gradient(#c6ff99,#548e25);
+}
+.button3{
+    -fx-background-color:
+        #6bcc57,
+        linear-gradient(#c3edbb, #65a53a);
+	-fx-font-size: 20pt;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+	-fx-padding: 15 30 15 30;
+	-fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 9,8,5,4,3;
+	-fx-font-family: "HelveticaNeue";
+}
+.button3:hover {
+    -fx-background-color:
+    #6bcc57,
+    linear-gradient(#c6ff99,#548e25);
+}
